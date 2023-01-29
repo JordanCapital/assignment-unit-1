@@ -1,5 +1,5 @@
 /* Give your page a fun background color */
-div{
+body{
     background-color: antiquewhite;
 
 }
@@ -28,7 +28,7 @@ p{
     color: chocolate;
     font-style: italic;
 }
-li{
+ul{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 footer{
