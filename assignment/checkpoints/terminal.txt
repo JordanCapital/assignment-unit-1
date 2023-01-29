@@ -17,6 +17,6 @@
 # 8 - Why would you run the command 'git status'?
         To check the the status of a git repository, and changes that have been make in the local repo on the machine.
 # 9 - What does the command 'git add .' do?
-        Used to track and add changes made in a file, to a git repository.
+        Used to track and add all changes made in a file, before pushing it to a git repository.
 # 10 - What is the command to push your committed changes to your repo on GitHub?
         "git push origin main"
